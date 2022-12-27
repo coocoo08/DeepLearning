@@ -73,3 +73,29 @@ arr2 =np.array([[2, 2], [2, 2], [2, 2]])
 
 result = arr1 * arr2
 print(result)
+
+print()
+
+# 넘파이 행렬 곱셈
+arr1 = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+arr2 = np.array([[2, 2], [2, 2], [2, 2]])
+
+#result = arr1 @ arr2
+result = arr1.dot(arr2)
+print(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
