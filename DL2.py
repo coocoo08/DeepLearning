@@ -71,18 +71,23 @@
                         - f1(x), f2(x)를 가설 혹은 모델이라고 부름
                         - 오차 (error)가 가장 작은 가설이 좋은 가설임
 '''
+import numpy as np
 
+# 배열의 행의 개수, 열의 개수
+array = np.zeros((3,4))
+print(array)
 
+print()
+array = np.ones((3,4))
+print(array)
 
+print()
+array = np.eye(3)
+print(array)
 
-
-
-
-
-
-
-
-
+print("*" * 10)
+array = np.dot(3)
+print(array)
 
 
 
