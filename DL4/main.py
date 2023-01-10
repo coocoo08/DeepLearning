@@ -49,3 +49,5 @@ for X, y in test_dataloader:
 # Loss 함수와 Optimizer 설정
 
 # Training을 위한 함수
+
+# Test를 위한 함수
