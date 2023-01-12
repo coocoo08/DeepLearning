@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2836f82f-feea-44c9-aa74-286566d836f5" name="변경" comment="DL4 폴더 생성">
-      <change afterPath="$PROJECT_DIR$/DL4/ezen/car_evaluation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DL4/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DL4/torch_basic5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML_Iris/data/iris.data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DL4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DL4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL4/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DL4/main2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +32,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/0_0N/Downloads/DeepLearning/DL4/ezen",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/0_0N/Downloads/DeepLearning/DL4/ezen&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\0_0N\Downloads\DeepLearning\DL4\ezen" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0_0N\Downloads\DeepLearning\ML_Iris\data" />
       <recent name="C:\Users\0_0N\Downloads\DeepLearning\DL3\ezen" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main2">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.iris_graph">
+    <configuration name="iris_graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML_Iris" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL3/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_Iris/iris_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.iris_graph" />
         <item itemvalue="Python.main2" />
         <item itemvalue="Python.torch_basic5" />
         <item itemvalue="Python.torch_basic4" />
         <item itemvalue="Python.torch_basic1" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673253000474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DL4 폴더 생성">
+      <created>1673334470203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673334470203</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
